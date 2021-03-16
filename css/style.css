@@ -6,11 +6,12 @@ body {
 
 h1.logo{
     border: 5px solid black;
-    border-radius: 15%;
+    border-radius: 50px;
     margin-left: 20%;
     margin-right: 20%;
-    padding-top: 80px;
-    padding-bottom: 80px;
+    margin-top: 90px;
+    padding-top: 90px;
+    padding-bottom: 90px;
     background-image: url(/img/logo%20if.png);
     background-repeat: no-repeat;
     background-size: 70%;
